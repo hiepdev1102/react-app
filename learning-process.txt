@@ -1,0 +1,9 @@
+-----13/02/2020
+Mongoose.Schema:
+    ----!!Need to remember:
+        ----- type:     define type,       value : String, ...
+        ----- required: need to fill,      value : true, false
+        ----- unique:   need to unique,    value : true, false
+        ----- default:  set default value  value : String, ...
+        ------------------------------------------------------
+        ----- Value: Date, get current time by using Date.now 
